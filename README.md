@@ -6,3 +6,7 @@ Database Management: Connected the Python pipeline to a MySQL database to effici
 ETL & Automation: Established a live database connection to Excel using an ODBC driver, utilizing Power Query to automate data transformation and enable one-click data refreshes.
 Deep Analysis: Built advanced data models in Excel using complex formulas, functions, and Pivot Tables to perform deep-dive analytical calculations.
 Data Visualization: Designed an interactive, clean, and highly intuitive executive dashboard to deliver actionable business insights from the finalized data.
+
+<p align="center">
+  <video src="Video Project.mp4" width="100%" controls></video>
+</p>
