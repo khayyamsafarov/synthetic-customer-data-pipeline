@@ -8,6 +8,6 @@ Deep Analysis: Built advanced data models in Excel using complex formulas, funct
 Data Visualization: Designed an interactive, clean, and highly intuitive executive dashboard to deliver actionable business insights from the finalized data.
 
 
-watch the video to understand how it works:
+check the video below to preview the system workflow:
 https://github.com/user-attachments/assets/9203cfa6-b783-411d-8379-46131c3a27f3
 
