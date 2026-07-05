@@ -7,6 +7,8 @@ ETL & Automation: Established a live database connection to Excel using an ODBC 
 Deep Analysis: Built advanced data models in Excel using complex formulas, functions, and Pivot Tables to perform deep-dive analytical calculations.
 Data Visualization: Designed an interactive, clean, and highly intuitive executive dashboard to deliver actionable business insights from the finalized data.
 
-<p align="center">
-  <video src="Video Project.mp4" width="100%" controls></video>
-</p>
+
+📺 Project Walkthrough & Demo
+
+Click the link below to watch the live pipeline execution and interactive Excel dashboard demo:
+🔗 [[Click Here to Watch the Video Project Demo]](./Video%20Project.mp4)
