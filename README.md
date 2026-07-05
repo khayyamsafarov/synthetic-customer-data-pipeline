@@ -8,7 +8,3 @@ Deep Analysis: Built advanced data models in Excel using complex formulas, funct
 Data Visualization: Designed an interactive, clean, and highly intuitive executive dashboard to deliver actionable business insights from the finalized data.
 
 
-📺 Project Walkthrough & Demo
-
-Click the link below to watch the live pipeline execution and interactive Excel dashboard demo:
-🔗 [[Click Here to Watch the Video Project Demo]](./Video%20Project.mp4)
